@@ -55,5 +55,5 @@ A full-stack web application to display vehicle inventory data, including recent
 2. Deploy the frontend to a static site hosting provider (e.g., Netlify).
 
 ## Author
-- Your Name
+- kasturi l
 
